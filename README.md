@@ -33,9 +33,10 @@ The following acoustic properties of each voice are measured and included within
 **Purpose from this dataset (Output):** Classify either male or female from voice.  
 **Problem Type:** Supervised (Classification) Problem.  
 **Accuracy:**  
-| Algorithm           | accuracy |
-| ------------------- |:--------:|
-| Logistic Regression | 97.5%    |
-| KNN                 | 97.8%    |
-| SVM                 | 98.8%    |
-| NN                  | 98%      |
+
+| Algorithm           | accuracy            |
+| ------------------- |:-------------------:|
+| Logistic Regression | 97.5%               |
+| KNN                 | 97.8%               |
+| SVM                 | 98.8%               |
+| NN                  | 98%                 |
