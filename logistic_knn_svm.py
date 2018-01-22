@@ -49,7 +49,7 @@ for i in enumerate(C):
 # using k-nearest neighbours
 from sklearn.neighbors import KNeighborsClassifier
 
-for i in range(1, 10, 2): # i skips even numbers
+for i in range(1, 10, 2):  # i skips even numbers
     knn = KNeighborsClassifier(n_neighbors=i)
     knn.fit(X_train, y_train)
     print("KNN Accuracy (k={}): {}".format(i, accuracy_score(knn.predict(X_test), y_test)))
