@@ -34,7 +34,7 @@ The following acoustic properties of each voice are measured and included within
 **Problem Type:** Supervised (Classification) Problem.  
 **Accuracy:**  
 
-| Algorithm           | accuracy            |
+| Algorithm           | Accuracy            |
 | ------------------- |:-------------------:|
 | Logistic Regression | 97.5%               |
 | KNN                 | 97.8%               |
